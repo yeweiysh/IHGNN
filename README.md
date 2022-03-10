@@ -18,12 +18,12 @@ to compile the necessary c++ files.
 
 After that, under the root directory of this repository, type
 
-    ./run_DGCNN.sh DATANAME
+    ./run_IHGNN.sh DATASETNAME
 
-to run DGCNN on dataset DATANAME with the default setting.
+to run IHGNN on dataset DATASETNAME with the default setting.
 
 
 Datasets
 --------
 
-Default graph datasets are stored in "data/DSName/DSName.txt". Check the "data/README.md" for the format. 
+Default graph datasets are stored in "data/DATASETNAME/DATASETNAME.txt". Check the "data/README.md" for the format. 
