@@ -18,7 +18,7 @@ to compile the necessary c++ files.
 
 After that, under the root directory of this repository, type
 
-    ./run_IHGNN.sh DATASETNAME
+    ./run_IHGNN.sh DATASETNAME 0
 
 to run IHGNN on dataset DATASETNAME with the default setting.
 
